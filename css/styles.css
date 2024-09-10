@@ -1,0 +1,39 @@
+html {
+    background-color:black;
+}
+
+body {
+    text-align:center;
+}
+
+.picture {
+    border:2px solid white;
+    padding: 2px;
+    width:550px;
+    height:400px;
+    margin: 75px auto;
+}
+
+h1 {
+    margin:0;
+}
+
+.heading {
+    color:white;
+    font-family: "Noto Sans Thai", sans-serif;
+    font-size: 55px;
+}
+
+.description {
+    color:gold;
+    font-family: "Noto Sans Thai", sans-serif;
+    font-size: 20px;
+    margin:0;
+    font-weight:600
+}
+
+.song {
+    color:rgb(145, 169, 234);
+    font-size: 0.5rem;
+    font-weight:700;
+}
